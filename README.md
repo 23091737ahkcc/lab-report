@@ -1,10 +1,14 @@
 # Lab Report
+
 Intro: This lab focuses on GNSS data collection, raw GNSS data process to observe useful information including satellites per epoch, C/N0, GDOP, flags, positioning output, and error metrics.
 
 Link to lab report:[aae4203 lab1.pdf](https://github.com/user-attachments/files/23435815/aae4203.lab1.pdf)
 
 # How It's Made
-Tech used: u-center, MATLAB, Python, RTKLIB, Google Earth
+
+Tech used: 
+
+u-center, MATLAB, Python, RTKLIB, Google Earth
 
 Proceduces:
 
@@ -21,6 +25,7 @@ Proceduces:
 6.Process GNSS data with Python scripts and evaluation positioning error
 
 # Learned
+
 Operate GNSS data with u-center
 
 Process raw GNSS data with RTKLIB
@@ -32,6 +37,7 @@ Evaluation positioning error
 Understanding SPP model and least squares
 
 # Reference
+
 https://en.wikipedia.org/wiki/Least_squares
 
 AAE 4203 lab tutorial
