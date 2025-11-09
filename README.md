@@ -2,7 +2,8 @@
 
 Intro: This lab focuses on GNSS data collection, raw GNSS data process to observe useful information including satellites per epoch, C/N0, GDOP, flags, positioning output, and error metrics.
 
-Link to lab report:[aae4203 lab1.pdf](https://github.com/user-attachments/files/23435815/aae4203.lab1.pdf)
+Link to lab report:[AAE4203 Lab1 25016683D.pdf](https://github.com/user-attachments/files/23435872/AAE4203.Lab1.25016683D.pdf)
+
 
 # How It's Made
 
